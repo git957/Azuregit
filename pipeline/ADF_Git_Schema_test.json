@@ -48,7 +48,102 @@
 						}
 					},
 					"enableStaging": false,
-					"validateDataConsistency": false
+					"validateDataConsistency": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "Year",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Year",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Industry_aggregation_NZSIOC",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Industry_aggregation_NZSIOC",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Industry_code_NZSIOC",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Industry_code_NZSIOC",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Industry_name_NZSIOC",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Industry_name_NZSIOC",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Units",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Units",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Variable_code",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Variable_code",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Variable_name",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Variable_name",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Variable_category",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Variable_category",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Value",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Value",
+									"type": "String"
+								}
+							}
+						]
+					}
 				},
 				"inputs": [
 					{
