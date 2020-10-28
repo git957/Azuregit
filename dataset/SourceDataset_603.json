@@ -24,7 +24,7 @@
 				"type": "String"
 			},
 			{
-				"name": "Industry_aggregation_NZSIOC",
+				"name": "Industry_edited_git",
 				"type": "String"
 			},
 			{
@@ -52,7 +52,7 @@
 				"type": "String"
 			},
 			{
-				"name": "Value",
+				"name": "Value_edit_git",
 				"type": "String"
 			},
 			{
