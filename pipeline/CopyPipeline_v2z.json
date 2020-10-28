@@ -47,7 +47,17 @@
 						}
 					},
 					"enableStaging": false,
-					"validateDataConsistency": false
+					"validateDataConsistency": false,
+					"translator": {
+						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"sink": {
+									"ordinal": 1
+								}
+							}
+						]
+					}
 				},
 				"inputs": [
 					{
