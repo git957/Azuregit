@@ -58,7 +58,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 1
+									"ordinal": "A"
 								}
 							},
 							{
@@ -68,7 +68,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 2
+									"ordinal": "B"
 								}
 							},
 							{
@@ -78,7 +78,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 3
+									"ordinal": "C"
 								}
 							},
 							{
@@ -88,7 +88,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 4
+									"ordinal": "D"
 								}
 							},
 							{
@@ -98,7 +98,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 5
+									"ordinal": "E"
 								}
 							},
 							{
@@ -108,7 +108,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 6
+									"ordinal": "F"
 								}
 							},
 							{
@@ -118,7 +118,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 7
+									"ordinal": "G"
 								}
 							},
 							{
@@ -128,7 +128,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 8
+									"ordinal": "H"
 								}
 							},
 							{
@@ -138,7 +138,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 9
+									"ordinal": "I"
 								}
 							},
 							{
@@ -148,7 +148,7 @@
 								},
 								"sink": {
 									"type": "String",
-									"ordinal": 10
+									"ordinal": "J"
 								}
 							}
 						]
