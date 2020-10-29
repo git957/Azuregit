@@ -141,6 +141,26 @@
 									"name": "Value",
 									"type": "String"
 								}
+							},
+							{
+								"source": {
+									"name": "Variable_category_new",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Variable_category_new",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Value_new",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Value_new",
+									"type": "String"
+								}
 							}
 						]
 					}
@@ -159,6 +179,8 @@
 				]
 			}
 		],
-		"annotations": []
-	}
+		"annotations": [],
+		"lastPublishTime": "2020-10-29T09:55:35Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
 }
