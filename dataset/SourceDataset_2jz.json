@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "annual-enterprise-survey-2019-financial-year-provisional-lessdata-csv.csv",
+				"fileName": "annual-enterprise-survey-2019-financial-year-provisional-lessdata-csv2.csv",
 				"container": "sukanyacontainer"
 			},
 			"columnDelimiter": ",",
