@@ -141,7 +141,28 @@
 									"name": "Value",
 									"type": "String"
 								}
+							},
+							{
+								"source": {
+									"name": "Variable_category_new",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Variable_category_new",
+									"type": "String"
+								}
+							},
+							{
+								"source": {
+									"name": "Value_new",
+									"type": "String"
+								},
+								"sink": {
+									"name": "Value_new",
+									"type": "String"
+								}
 							}
+							
 						]
 					}
 				},
