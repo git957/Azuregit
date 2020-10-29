@@ -138,7 +138,7 @@
 									"type": "String"
 								},
 								"sink": {
-									"name": "Value_output",
+									"name": "Value",
 									"type": "String"
 								}
 							}
